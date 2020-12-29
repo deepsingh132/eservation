@@ -12,4 +12,4 @@
 
 ![Time](https://user-images.githubusercontent.com/18049003/103298155-bff6db80-4a1f-11eb-986f-312a90138832.png)       ![Reservation Screen 1](https://user-images.githubusercontent.com/18049003/103298146-bb322780-4a1f-11eb-88e7-2bb2233281fa.png)
 
-![Reservation Screen 2](https://user-images.githubusercontent.com/18049003/103299052-b2daec00-4a21-11eb-87aa-00ab34c40914.png)
+![Reservation Screen 2](https://user-images.githubusercontent.com/18049003/103299052-b2daec00-4a21-11eb-87aa-00ab34c40914.png)   ![Edit Reservation](https://user-images.githubusercontent.com/18049003/103300325-a1dfaa00-4a24-11eb-9a6f-0b23f3f99b3e.png)
