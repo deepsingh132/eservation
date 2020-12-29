@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484132296424",
+    "project_id": "eservation-51409",
+    "storage_bucket": "eservation-51409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484132296424:android:32ed0c47cca9bdb55c9b5d",
+        "android_client_info": {
+          "package_name": "com.hackbaba.eservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484132296424-sd0gnhe4jq2339pt2d9i67ppvl2t6ohp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackbaba.eservation",
+            "certificate_hash": "d9d73e0cb12cb2a260c857e988689a68bad76153"
+          }
+        },
+        {
+          "client_id": "484132296424-jcvq4s4a95chjt76iurqogeffk6hlgqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWdIVZz2lgzearz4hbiFnhYPDugw9L0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484132296424-jcvq4s4a95chjt76iurqogeffk6hlgqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
